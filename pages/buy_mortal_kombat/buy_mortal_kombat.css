@@ -1,0 +1,54 @@
+/* body {
+    position: relative;
+    min-height: 200vh;
+} */
+
+body {
+    height: 100%;
+}
+
+img {
+    float: left;
+    width: 50%;
+    margin-right: 20px;
+}
+
+article {
+    background-color: #BC105C;
+    color: #FAFAFB;;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: end;
+}
+
+p {
+    font-size: 20px;
+}
+
+.buy-button{
+    margin-top: 30px;
+}
+
+span {
+    display: block;
+    margin-top: 10px;
+}
+
+
+
+a:hover {
+    background-color: rgb(214, 156, 176);
+}
+
+
+footer {
+    width: 80%;
+    margin: auto;
+    margin-top: 200px;
+}
