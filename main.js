@@ -1,3 +1,3 @@
-/* import './style.css' */
+import './style.css'
 
-import './style-2.css'
+/* import './style-2.css' */

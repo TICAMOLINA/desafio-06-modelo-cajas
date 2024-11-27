@@ -8,6 +8,11 @@
     src: url(/fonts/TT\ Octosquares\ Trial\ Expanded\ Regular.ttf)
 }
 
+@font-face {
+    font-family: 'CreatoDisplay-Bold';
+    src: url(/fonts/CreatoDisplay-Bold.otf);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -16,7 +21,7 @@
 
 body {
     background-color: #003697;
-    font-family: 'CreatoDisplay';
+    font-family: 'CreatoDisplay-Bold';
     color: #FAFAFB;
     margin-bottom: 20px;
 }
@@ -127,5 +132,6 @@ a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 5px;
 }
 
